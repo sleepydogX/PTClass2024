@@ -28,6 +28,9 @@ Before diving into the labs, make sure you have the following:
 - Familiarity with **PowerShell**, **Bash**, and scripting tools is a plus
 - Enthusiasm for learning and collaboration between Red and Blue teams!
 
+General view:
+![image](https://github.com/user-attachments/assets/abaf2246-28b5-43c8-8572-4fcb26e63510)
+
 ---
 
 ## Get Started
