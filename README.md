@@ -35,7 +35,7 @@ General view:
 
 ## Get Started
 
-Ready to dive in? Start by [exploring the course materials](./path_to_materials) and setting up your environment. Don’t hesitate to ask questions or contribute through the **Issues** section.
+Ready to dive in? Start by [exploring the course materials](./Class) and setting up your environment. Don’t hesitate to ask questions or contribute through the **Issues** section.
 
 Stay tuned for updates and new exercises that will push your skills further!
 
