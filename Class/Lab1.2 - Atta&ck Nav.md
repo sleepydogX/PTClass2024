@@ -1,4 +1,4 @@
-**Lab 4: MITRE ATT&CK Navigator**
+**Lab 1.2: MITRE ATT&CK Navigator**
 
 **Objective**: Use the MITRE ATT&CK Navigator to map and visualize adversarial techniques based on the previous exercise. 
 
