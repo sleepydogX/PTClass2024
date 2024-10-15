@@ -38,7 +38,7 @@
 
 
 Code:
-'''
+```
 {
   "version": "4.5",
   "name": "XYZ Corporation Phishing Campaign Simulation",
@@ -120,4 +120,4 @@ Code:
     }
   ]
 }
-'''
+```
