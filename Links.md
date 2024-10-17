@@ -5,3 +5,4 @@
 - Mitre Engage Tools (GitHub) --> https://github.com/mitre/engage/tree/main/Tools/Docs
 - Mitre Adversary Emulation Library --> https://github.com/center-for-threat-informed-defense/adversary_emulation_library
 - Mitre Att&ck Python (tool) --> https://github.com/mitre-attack/mitreattack-python
+- CONTI Playbook sample --> https://github.com/DISREL/Conti-Leaked-Playbook-TTPs/blob/main/Conti-Leaked-Playbook-TTPs.pdf
