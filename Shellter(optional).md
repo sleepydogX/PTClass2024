@@ -11,6 +11,8 @@ This lab guides you through the process of installing **Shellter**, injecting a 
 - Configure a **listener in Metasploit** to receive the reverse connection.
 
 ---
+![image](https://github.com/user-attachments/assets/489d6767-4a92-4ffa-9675-3e83e30c9660)
+---
 
 ### **Prerequisites:**
 
